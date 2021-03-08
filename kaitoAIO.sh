@@ -8,5 +8,5 @@ wget -N https://raw.githubusercontent.com/Dok4440/KaitoRawScripts/main/Kaito_mas
 
 bash Kaito_master_runner.sh
 cd "$root"
-rm "$root/Kaito_master_runner.sh"
+# rm "$root/Kaito_master_runner.sh"
 exit 0
